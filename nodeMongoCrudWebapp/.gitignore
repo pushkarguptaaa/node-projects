@@ -1,3 +1,3 @@
-nodeMongoCrudWebapp/node_modules
+/node_modules
 .DS_Store
-nodeMongoCrudWebapp/secret.js
+/secret.js
